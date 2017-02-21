@@ -10,7 +10,10 @@ namespace csharp_ground.section
     {
         public static int SecI()
         {
+            Console.WriteLine(">>>> Section 1 Hello World! <<<<");
+            Console.WriteLine("\n");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("\n");
             return 0;
         }
     }
