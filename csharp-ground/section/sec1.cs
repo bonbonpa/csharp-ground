@@ -14,6 +14,7 @@ namespace csharp_ground.section
             Console.WriteLine("\n");
             Console.WriteLine("Hello World!");
             Console.WriteLine("\n");
+            Console.WriteLine(">>>> End Section 1 Hello World! <<<<");
             return 0;
         }
     }

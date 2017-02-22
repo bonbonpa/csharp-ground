@@ -10,7 +10,7 @@ namespace csharp_ground.section
     {
         public static void SecII() {
             //Variable and Datatype
-            Console.WriteLine(">>>> Section 2 Variable and DataType <<<<");
+            Console.WriteLine(">>>> Section 2 Variable and DataType <<<<\n");
             int year = 1990;
             string name = "Marcus";
             string nationality = "African";
@@ -84,7 +84,7 @@ namespace csharp_ground.section
 
             Console.WriteLine("You are learning {0}# by {1}" ,ch ,OOP);
 
-            Console.WriteLine(">>>> End Section 2 Variable and DataType <<<<");
+            Console.WriteLine("\n>>>> End Section 2 Variable and DataType <<<<");
         }
         
     }

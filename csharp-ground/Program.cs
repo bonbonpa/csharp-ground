@@ -17,6 +17,9 @@ namespace csharp_ground
             //Variable and Data Type
             sec2.SecII();
 
+            Console.WriteLine("\n");
+            //Constant
+            sec3.SecIII();
 
             Console.ReadKey();
         }
