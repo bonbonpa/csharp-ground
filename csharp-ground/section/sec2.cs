@@ -15,7 +15,7 @@ namespace csharp_ground.section
             string name = "Marcus";
             string nationality = "African";
 
-            Console.WriteLine("His nmae is {0}",name);
+            Console.WriteLine("His name is {0}",name);
             Console.WriteLine("He was born in {0}", year);
             Console.WriteLine("He is {0}", nationality);
 

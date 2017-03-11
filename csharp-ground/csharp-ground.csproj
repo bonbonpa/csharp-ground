@@ -48,6 +48,7 @@
     <Compile Include="section\sec1.cs" />
     <Compile Include="section\sec2.cs" />
     <Compile Include="section\sec3.cs" />
+    <Compile Include="section\sec4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

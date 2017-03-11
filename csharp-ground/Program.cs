@@ -10,16 +10,17 @@ namespace csharp_ground
     {
         static void Main(string[] args)
         {
-            //Hello World !
-            sec1.SecI();
+            ////Hello World !
+            //sec1.SecI();
 
-            Console.WriteLine("\n");
-            //Variable and Data Type
-            sec2.SecII();
+            //Console.WriteLine("\n");
+            ////Variable and Data Type
+            //sec2.SecII();
 
-            Console.WriteLine("\n");
-            //Constant
-            sec3.SecIII();
+            //Console.WriteLine("\n");
+            ////Constant
+            //sec3.SecIII();
+            sec4.SecIV();
 
             Console.ReadKey();
         }
